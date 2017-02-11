@@ -1,0 +1,6 @@
+dist
+node_modules
+private.pem
+public.pem
+debug.log
+yarn.lock
